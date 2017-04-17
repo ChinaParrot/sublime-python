@@ -203,12 +203,12 @@
 			"buffers":
 			[
 				{
-					"file": "/D/xjq-work/software/sublime-python/sublime-window-64/readme.txt",
+					"file": "/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/SideBarFolders/SideBarFolders.py",
 					"settings":
 					{
-						"buffer_size": 1261,
+						"buffer_size": 13405,
 						"encoding": "UTF-8",
-						"line_ending": "Windows"
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -285,14 +285,18 @@
 			"expanded_folders":
 			[
 				"/D/xjq-work/software/sublime-python",
+				"/D/xjq-work/software/sublime-python/sublime-window-64",
 				"/D/xjq-work/software/sublime-python/sublime-window-64/Data",
 				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages",
 				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/SideBarFolders"
 			],
 			"file_history":
 			[
-				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/User/Side Bar Folders.sublime-settings",
+				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/User/CTags.sublime-settings",
+				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/CTags/CTags.sublime-settings",
+				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/SideBarFolders/OpenFilesInFolderWindow.py",
 				"/D/xjq-work/software/sublime-python/sublime-window-64/readme.txt",
+				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/User/Side Bar Folders.sublime-settings",
 				"/D/xjq-work/software/sublime-python/sublime-window-64/python3.3.zip",
 				"/C/Users/Administrator/Desktop/test.py",
 				"/D/xjq-work/software/sublime-python/README.md",
@@ -360,19 +364,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/D/xjq-work/software/sublime-python/sublime-window-64/readme.txt",
+							"file": "/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/SideBarFolders/SideBarFolders.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1261,
+								"buffer_size": 13405,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1260,
-										1260
+										1922,
+										1922
 									]
 								],
 								"settings":
@@ -452,11 +456,11 @@
 										"bh_round_content"
 									],
 									"side_bar_folders_auto_load_folder": 1,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"syntax": "Packages/Python/Python.sublime-syntax",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1303.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -505,7 +509,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,734,278,53,1278",
+			"position": "0,2,3,-32000,-32000,-1,-1,702,193,21,1193",
 			"project": "",
 			"replace":
 			{

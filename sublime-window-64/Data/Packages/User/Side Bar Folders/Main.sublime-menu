@@ -14,17 +14,17 @@
 			{ "command": "side_bar_folders_remove_current", "caption": "Remove Current Folder"},
 			{ "caption": "-" , "id": "history" },
 			{
-				"caption": "Append Folder",
+				"caption": "Load Folder",
 				"children": [
-					{ "command": "side_bar_folders_swap", "caption": "Use \"Append\" Folder List as Default "},
+					{ "command": "side_bar_folders_swap", "caption": "Use \"Load\" Folder List as Default "},
 					{ "caption": "-" },
 					// Folder history goes here
-					{ "command": "side_bar_folders_load", "args":{ "index": 0, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 0 }},
 				]
 			},
 			// Folder history goes here
 			{ "caption": "-" , "id": "options-separator" },
-			{ "command": "side_bar_folders_load", "args":{ "index": 0 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 0, "append": true }},
 			{ "caption": "-" , "id": "options" },
 			{ "command": "side_bar_folders_audit_all", "caption": "Clear Missing Folders"},
 			{ "caption": "-" , "id": "end" }
