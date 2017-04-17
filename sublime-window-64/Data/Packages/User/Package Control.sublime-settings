@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"ChineseLocalizations",
+		"Monokai Extended",
+		"Package Control",
+		"SideBarEnhancements"
+	]
+}
