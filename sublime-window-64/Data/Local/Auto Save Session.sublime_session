@@ -213,9 +213,18 @@
 					"file": "/D/xjq-work/software/sublime-python/README.md",
 					"settings":
 					{
-						"buffer_size": 2733,
+						"buffer_size": 2769,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/Desktop/t.txt",
+					"settings":
+					{
+						"buffer_size": 11731,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
 					}
 				}
 			],
@@ -367,7 +376,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
@@ -376,15 +385,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2733,
+								"buffer_size": 2769,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										846,
-										846
+										2769,
+										2769
 									]
 								],
 								"settings":
@@ -392,10 +401,38 @@
 									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 513.0,
+								"translation.y": 3407.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Administrator/Desktop/t.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11731,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11365,
+										11365
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -441,7 +478,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,690,189,9,1189",
+			"position": "0,2,3,-1,-1,-1,-1,706,289,25,1289",
 			"project": "",
 			"replace":
 			{
