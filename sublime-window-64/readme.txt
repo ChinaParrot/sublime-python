@@ -40,3 +40,10 @@ https://github.com/JasmineChoi/Green-ColorScheme
 5、调色
 http://tmtheme-editor.herokuapp.com/#!/editor/local/Monokai
 6、SideBar Enhancement 侧边栏添加功能
+7、SideBarFolders 解决打开的文件夹都太多了? 来用这个来管理文件夹
+https://github.com/titoBouzout/SideBarFolders
+8、显示我在哪个括号内
+安装使用 Package Control 进行安装
+https://github.com/facelessuser/BracketHighlighter
+9、TrailingSpaces 强迫症患者必备
+

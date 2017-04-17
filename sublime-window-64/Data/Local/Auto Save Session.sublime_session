@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/D/xjq-work/software/sublime-python"
 	],
 	"last_version": 3126,
 	"last_window_id": 5,
@@ -202,27 +203,10 @@
 			"buffers":
 			[
 				{
-					"file": "/C/Users/Administrator/Desktop/test.py",
+					"file": "/D/xjq-work/software/sublime-python/sublime-window-64/readme.txt",
 					"settings":
 					{
-						"buffer_size": 21,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/xjq-work/software/sublime-python/README.md",
-					"settings":
-					{
-						"buffer_size": 2769,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/C/Users/Administrator/Desktop/t.txt",
-					"settings":
-					{
-						"buffer_size": 11731,
+						"buffer_size": 1261,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -251,13 +235,17 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 446.0,
-				"last_filter": "Package Control: ",
+				"height": 392.0,
+				"last_filter": "inst",
 				"selected_items":
 				[
 					[
-						"Package Control: ",
+						"inst",
 						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Add Channel"
 					],
 					[
 						"Package Control: ins",
@@ -276,7 +264,7 @@
 						"Install Package Control"
 					]
 				],
-				"width": 549.0
+				"width": 464.0
 			},
 			"console":
 			{
@@ -294,9 +282,21 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/D/xjq-work/software/sublime-python",
+				"/D/xjq-work/software/sublime-python/sublime-window-64/Data",
+				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages",
+				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/SideBarFolders"
+			],
 			"file_history":
 			[
+				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/User/Side Bar Folders.sublime-settings",
+				"/D/xjq-work/software/sublime-python/sublime-window-64/readme.txt",
+				"/D/xjq-work/software/sublime-python/sublime-window-64/python3.3.zip",
 				"/C/Users/Administrator/Desktop/test.py",
+				"/D/xjq-work/software/sublime-python/README.md",
+				"/C/Users/Administrator/Desktop/t.txt",
 				"/C/Users/Administrator/Desktop/import.py",
 				"/C/Users/Administrator/Desktop/import os",
 				"/D/xjq-work/sublime_text_3126.win.origin.x64/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
@@ -315,7 +315,7 @@
 			],
 			"find":
 			{
-				"height": 28.0
+				"height": 35.0
 			},
 			"find_in_files":
 			{
@@ -329,6 +329,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"TrailingSpaces",
 					"complete_parameters",
 					"python_interpreter"
 				],
@@ -345,94 +346,120 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "D:\\xjq-work\\software\\sublime-python"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/Administrator/Desktop/test.py",
+							"file": "/D/xjq-work/software/sublime-python/sublime-window-64/readme.txt",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 21,
+								"buffer_size": 1261,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										1260,
+										1260
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/xjq-work/software/sublime-python/README.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2769,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2769,
-										2769
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 3407.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/C/Users/Administrator/Desktop/t.txt",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 11731,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										11365,
-										11365
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -444,7 +471,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 35.0
 			},
 			"layout":
 			{
@@ -478,7 +505,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,706,289,25,1289",
+			"position": "0,0,1,-32000,-32000,-1,-1,734,278,53,1278",
 			"project": "",
 			"replace":
 			{
@@ -529,7 +556,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 188.0,
+			"side_bar_width": 387.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

@@ -6,9 +6,11 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"BracketHighlighter",
 		"ChineseLocalizations",
 		"Monokai Extended",
 		"Package Control",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"TrailingSpaces"
 	]
 }
