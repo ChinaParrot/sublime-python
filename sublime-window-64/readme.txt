@@ -1,19 +1,16 @@
-D:\xjq-work\sublime_text_3126.win.origin.x64
+Python安装包：
 python-3.6.1-amd64.exe
-control + shift p
-Package Control 来安装其他的插件了
+通过control + shift + p 来安装Package Control 来安装其他的插件了
+
 http://damnwidget.github.io/anaconda/
-1、install ------->Anaconda 
+1、install ------->Anaconda
 配置user:
 {
     "python_interpreter": "C:\\Program Files\\Python36\\python.exe",
     "auto_python_builder_enabled": false,
     "anaconda_linting": false,
 }
-
-2、安装中文支持： ChineseLocalization 
-
-
+2、安装中文支持： ChineseLocalization
 3、Preerences.sublime-settings-user
 {
 	"auto_find_in_selection": true,
