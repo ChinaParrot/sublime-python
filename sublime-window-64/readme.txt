@@ -47,3 +47,4 @@ https://github.com/titoBouzout/SideBarFolders
 https://github.com/facelessuser/BracketHighlighter
 9、TrailingSpaces 强迫症患者必备
 
+10、 FileHeader
