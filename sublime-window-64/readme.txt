@@ -1,5 +1,10 @@
 Python安装包：
 python-3.6.1-amd64.exe
+
+ubuntu 16.4安装
+sudo add-apt-repository ppa:webupd8team/sublime-text-3
+apt install sublime-text-installer
+
 通过control + shift + p 来安装Package Control 来安装其他的插件了
 
 http://damnwidget.github.io/anaconda/
