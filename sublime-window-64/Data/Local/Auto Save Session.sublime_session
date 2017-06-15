@@ -7,17 +7,93 @@
 		"/D/xjq-work/software/sublime-python"
 	],
 	"last_version": 3126,
-	"last_window_id": 7,
+	"last_window_id": 9,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 524.0,
+		"new_window_height": 306.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"je",
+						"jetty_conf_path"
+					],
+					[
+						"up",
+						"update_last"
+					],
+					[
+						"war",
+						"war_dir"
+					],
+					[
+						"bak",
+						"bak_last_dir"
+					],
+					[
+						"file",
+						"file_name"
+					],
+					[
+						"app",
+						"app_log_org"
+					],
+					[
+						"name",
+						"name_dir"
+					],
+					[
+						"add",
+						"add_end\tfunction"
+					],
+					[
+						"fo",
+						"foobar"
+					],
+					[
+						"pop",
+						"pop\tfunction"
+					],
+					[
+						"ma",
+						"maketras"
+					],
+					[
+						"get",
+						"get_score\tfunction"
+					],
+					[
+						"ge",
+						"get_name\tfunction"
+					],
+					[
+						"n",
+						"name"
+					],
+					[
+						"a",
+						"asctime\tfunction"
+					],
+					[
+						"ti",
+						"time\tfunction"
+					],
+					[
+						"lo",
+						"localtime\tstatement"
+					],
+					[
+						"key",
+						"keyword\tmodule"
+					],
+					[
+						"le",
+						"__len__\tinstance"
+					]
 				]
 			},
 			"build_system_choices":
@@ -91,10 +167,85 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Administrator/Desktop/dorcker 命令详解",
-				"/C/Users/Administrator/Desktop/wifi.bat",
-				"/C/Users/Administrator/Desktop/wifi.txt",
+				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/User/Localization.sublime-settings",
+				"/D/xjq-work/software/sublime-python/.git/config",
+				"/F/jqlinux_work/work-2016/sh/项目ssh/backup_log.sh",
+				"/D/下载/Re_ Re_ 资源3.0数百家场馆删除/删除场馆场地商品明细-stadium.sql",
+				"/D/WeChat Files/WeChat Files/xuejunqiang1206/Files/plmm201705.sql",
+				"/D/下载/Re_ Re_ 资源3.0数百家场馆删除/删除场馆场地商品明细-venue.sql",
+				"/D/下载/Re_ Re_ 资源3.0数百家场馆删除/删除场馆场地商品明细-res_merchandise.sql",
+				"/D/下载/资源场地视图.sql",
+				"/D/下载/资源场地视图 (1).sql",
+				"/D/下载/Re_ Re_ 资源3.0数百家场馆删除/删除场馆场地商品明细-item.sql",
+				"/D/下载/union.sql",
+				"/D/下载/union (1).sql",
+				"/C/Users/Administrator/Desktop/nmpuser.sql",
+				"/C/Users/Administrator/Desktop/花了money的高级后台管理模板/index.html",
+				"/F/jqlinux_work/work-2016/sh/login.sh",
+				"/C/Users/Administrator/Desktop/update_git_jetty.sh",
+				"/C/Users/Administrator/Desktop/update_git.sh",
+				"/F/work-2016/sh/Jenkins/maven打包.sh",
+				"/D/下载/u_member_identity.sql",
+				"/C/Users/Administrator/Desktop/moven_jetty.sh",
+				"/C/Users/Administrator/Desktop/update_jetty.sh",
+				"/C/Users/Administrator/Desktop/backup_log.sh",
+				"/C/Users/Administrator/Desktop/an.py",
+				"/C/Users/Administrator/Desktop/nginx_log.sh",
+				"/C/Users/Administrator/Desktop/install.sh",
+				"/C/Users/Administrator/Desktop/KeePassHttp.plgx",
+				"/F/leshi.txt",
+				"/D/360安全浏览器下载/parameters_20170606_223210.txt",
+				"/D/xjq-work/OpenVPN/config/公司-联通.ovpn",
+				"/F/work-2016/nginx/www.anjunlicai.com.conf",
+				"/C/Users/Administrator/Desktop/abc_plmm_lists.sql",
+				"/C/Users/Administrator/Desktop/www.anjunlicai.com.conf",
+				"/C/Users/Administrator/Desktop/s14day1/guess任性玩.py",
+				"/D/360安全浏览器下载/公司.ovpn",
+				"/D/xjq-work/OpenVPN/config/兆维.ovpn",
+				"/D/xjq-work/OpenVPN/config/公司-bgp.ovpn",
 				"/D/xjq-work/OpenVPN/config/alyun.ovpn",
+				"/D/xjq-work/software/OpenVPN/config/公司.ovpn",
+				"/D/xjq-work/software/OpenVPN/config/ca.crt",
+				"/F/work-2016/xhell-密钥/其他服务器朋友/数据库.txt",
+				"/C/Users/Administrator/Desktop/test.py",
+				"/C/Users/Administrator/Desktop/wifi.bat",
+				"/C/Users/Administrator/Desktop/shop_view_sql.txt",
+				"/F/work-2016/bestdo/readme.txt",
+				"/F/work-2016/面试题/linux题.txt",
+				"/C/Users/Administrator/Desktop/系统工程师岗位职责",
+				"/C/Users/Administrator/Desktop/demo.bestdo.com.conf",
+				"/D/360安全浏览器下载/sql-2017-6-5.txt",
+				"/D/360安全浏览器下载/do (1).sql",
+				"/D/360安全浏览器下载/sql_online_card (3).txt",
+				"/C/Users/Administrator/Desktop/csft.conf",
+				"/C/Users/Administrator/Desktop/example-code-master/01-data-model/frenchdeck.py",
+				"/C/Users/Administrator/Desktop/apache-2.4.sh",
+				"/C/Users/Administrator/Desktop/zj.log",
+				"/F/work-2016/bestdo/git_base.txt",
+				"/C/Users/Administrator/Desktop/公司-联通.ovpn",
+				"/C/Users/Administrator/Desktop/公司-bgp.ovpn",
+				"/F/个人文件/信用卡申请",
+				"/C/Users/Administrator/Desktop/openvpnconnect.p12",
+				"/C/Users/Administrator/Desktop/company_settlement_price-2.sql",
+				"/C/Users/Administrator/Desktop/company_settlement_price-1.sql",
+				"/C/Users/Administrator/Desktop/company_settlement_price-3.sql",
+				"/C/Users/Administrator/Desktop/xy.sql",
+				"/C/Users/Administrator/Desktop/test.xml",
+				"/D/xjq-work/OpenVPN/config/公司-2.ovpn",
+				"//tsclient/D/xuejq/新建文本文档.txt",
+				"/C/Users/Administrator/Desktop/----.xml",
+				"/C/Users/Administrator/Desktop/nginx.conf",
+				"/C/Users/Administrator/Desktop/s14day1/guess for .py",
+				"/C/Users/Administrator/Desktop/s14day1/coding.py",
+				"/C/Users/Administrator/Desktop/upyun-local.repo",
+				"/C/Users/Administrator/Desktop/hosts",
+				"/D/360安全浏览器下载/sql_online_card (2).txt",
+				"/D/360安全浏览器下载/teleport-server-linux-x64-2.2.6.1/setup.sh",
+				"/D/360安全浏览器下载/teleport-server-linux-x64-2.2.6.1/data/www/packages/packages-linux/x64/PIL/SgiImagePlugin.py",
+				"/C/Users/Administrator/Desktop/oneinstack/include/pureftpd.sh",
+				"/C/Users/Administrator/Desktop/linux题.txt",
+				"/C/Users/Administrator/Desktop/dorcker 命令详解",
+				"/C/Users/Administrator/Desktop/wifi.txt",
 				"/C/Users/Administrator/Desktop/中行-崇文支行-572/insert.sql",
 				"/C/Users/Administrator/Desktop/中行-崇文支行-572/update.sql",
 				"/C/Users/Administrator/Desktop/sendmail.py",
@@ -140,41 +291,14 @@
 				"/D/xjq-work/学习/0424.txt",
 				"/D/xjq-work/学习/tianyun_ULA_01.ncd",
 				"/D/360安全浏览器下载/update (2).sql",
-				"/C/Users/Administrator/Desktop/test.py",
 				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/FileHeader/FileHeader.sublime-settings",
 				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/User/FileHeader.sublime-settings",
 				"/C/Users/Administrator/Desktop/t.txt",
-				"/D/xjq-work/software/sublime-python/sublime-window-64/readme.txt",
-				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/FileHeader/Default (Windows).sublime-keymap",
-				"/D/360安全浏览器下载/update (1).sql",
-				"/C/Users/Administrator/Desktop/test",
-				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/Anaconda/anaconda.py",
-				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/SideBarFolders/SideBarFolders.py",
-				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/User/CTags.sublime-settings",
-				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/CTags/CTags.sublime-settings",
-				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/SideBarFolders/OpenFilesInFolderWindow.py",
-				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/User/Side Bar Folders.sublime-settings",
-				"/D/xjq-work/software/sublime-python/sublime-window-64/python3.3.zip",
-				"/D/xjq-work/software/sublime-python/README.md",
-				"/C/Users/Administrator/Desktop/import.py",
-				"/C/Users/Administrator/Desktop/import os",
-				"/D/xjq-work/sublime_text_3126.win.origin.x64/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
-				"/D/QQPCmgr/Desktop/test.py",
-				"/D/xjq-work/sublime_text_3126.win.origin.x64/Data/Packages/Default/Preferences.sublime-settings",
-				"/D/xjq-work/sublime_text_3126.win.origin.x64/Data/Packages/User/Preferences.sublime-settings",
-				"/D/xjq-work/sublime_text_3126.win.origin.x64/Data/Packages/User/Localization.sublime-settings",
-				"/D/xjq-work/sublime_text_3126.win.origin.x64/Data/Packages/User/Package Control.sublime-settings",
-				"/D/xjq-work/sublime_text_3126.win.origin.x64/Data/Packages/User/Anaconda.sublime-settings",
-				"/D/xjq-work/sublime_text_3126.win.origin.x64/license_key.txt",
-				"/D/xjq-work/sublime_text_3126.win.origin.x64/注册码.txt",
-				"/D/xjq-work/sublime_text_3126.win.origin.x64/Data/Packages/Anaconda/Anaconda.sublime-settings",
-				"/D/QQPCmgr/Desktop/readme.txt",
-				"/D/xjq-工作/sublime_text_3126.win.origin.x64/Data/Packages/Anaconda/Anaconda.sublime-settings",
-				"/D/xjq-工作/sublime_text_3126.win.origin.x64/Data/Packages/Package Control/Package Control.sublime-settings"
+				"/D/xjq-work/software/sublime-python/sublime-window-64/readme.txt"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 46.0
 			},
 			"find_in_files":
 			{
@@ -188,6 +312,16 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					":\"`\n",
+					"git_branch",
+					"chaoli.chen",
+					"prod-SportPlatform-reserve02-ecs-aliyun\n",
+					"StepUpload",
+					"name",
+					"\"\n",
+					"!!!\")",
+					"s1",
+					"20000",
 					"13811440466",
 					"昂','13811440466',\t",
 					"binbin.wei",
@@ -201,11 +335,13 @@
 					"python_interpreter"
 				],
 				"highlight": false,
-				"in_selection": true,
+				"in_selection": false,
 				"preserve_case": false,
 				"regex": false,
 				"replace_history":
 				[
+					"chencl",
+					"s",
 					"chaoli.chen"
 				],
 				"reverse": false,
@@ -234,7 +370,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 64.0
+				"height": 86.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -268,13 +404,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 103.0,
+			"side_bar_width": 237.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 790.0
+		"new_window_width": 353.0
 	},
 	"windows":
 	[
@@ -395,6 +531,15 @@
 					"settings":
 					{
 						"buffer_size": 1382,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/Desktop/nmpuser.sql",
+					"settings":
+					{
+						"buffer_size": 28520,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -541,6 +686,8 @@
 			],
 			"file_history":
 			[
+				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/User/Localization.sublime-settings",
+				"/D/xjq-work/software/sublime-python/.git/config",
 				"/F/jqlinux_work/work-2016/sh/项目ssh/backup_log.sh",
 				"/D/下载/Re_ Re_ 资源3.0数百家场馆删除/删除场馆场地商品明细-stadium.sql",
 				"/D/WeChat Files/WeChat Files/xuejunqiang1206/Files/plmm201705.sql",
@@ -666,9 +813,7 @@
 				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/FileHeader/FileHeader.sublime-settings",
 				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/User/FileHeader.sublime-settings",
 				"/C/Users/Administrator/Desktop/t.txt",
-				"/D/xjq-work/software/sublime-python/sublime-window-64/readme.txt",
-				"/D/xjq-work/software/sublime-python/sublime-window-64/Data/Packages/FileHeader/Default (Windows).sublime-keymap",
-				"/D/360安全浏览器下载/update (1).sql"
+				"/D/xjq-work/software/sublime-python/sublime-window-64/readme.txt"
 			],
 			"find":
 			{
@@ -736,7 +881,7 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 4,
 					"sheets":
 					[
 						{
@@ -886,7 +1031,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
@@ -988,7 +1133,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
@@ -1138,7 +1283,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
@@ -1154,8 +1299,8 @@
 								"selection":
 								[
 									[
-										140,
-										140
+										265,
+										410
 									]
 								],
 								"settings":
@@ -1289,11 +1434,161 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
 							"buffer": 4,
+							"file": "/C/Users/Administrator/Desktop/nmpuser.sql",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 28520,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										289,
+										289
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										6,
+										14,
+										15,
+										29,
+										56,
+										2,
+										95,
+										59,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/SQL/SQL.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
 							"file": "/C/Users/Administrator/Desktop/jumpserver-0.2.1/juser/admin.py",
 							"semi_transient": false,
 							"settings":
@@ -1439,11 +1734,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
-							"buffer": 5,
+							"buffer": 6,
 							"file": "/C/Users/Administrator/Desktop/jumpserver/apps/ops/tests/__init__.py",
 							"semi_transient": false,
 							"settings":
@@ -1589,11 +1884,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
-							"buffer": 6,
+							"buffer": 7,
 							"file": "/C/Users/Administrator/Desktop/jumpserver/run_server.py",
 							"semi_transient": false,
 							"settings":
@@ -1756,11 +2051,11 @@
 								"translation.y": 360.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 7,
 							"type": "text"
 						},
 						{
-							"buffer": 7,
+							"buffer": 8,
 							"file": "/C/Users/Administrator/Desktop/jumpserver/config_example.py",
 							"semi_transient": false,
 							"settings":
@@ -1908,11 +2203,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 8,
 							"type": "text"
 						},
 						{
-							"buffer": 8,
+							"buffer": 9,
 							"file": "/C/Users/Administrator/Desktop/jumpserver-0.2.1/juser/views.py",
 							"semi_transient": true,
 							"settings":
@@ -2060,11 +2355,11 @@
 								"translation.y": 8370.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 8,
+							"stack_index": 9,
 							"type": "text"
 						},
 						{
-							"buffer": 9,
+							"buffer": 10,
 							"file": "/C/Users/Administrator/Desktop/ldap_sha1",
 							"semi_transient": false,
 							"settings":
@@ -2211,7 +2506,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 9,
+							"stack_index": 10,
 							"type": "text"
 						}
 					]
@@ -2257,7 +2552,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,507,433,155,794",
+			"position": "0,2,3,-32000,-32000,-1,-1,596,910,244,1271",
 			"project": "",
 			"replace":
 			{
