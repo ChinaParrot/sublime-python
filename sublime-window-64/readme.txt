@@ -20,24 +20,25 @@ http://damnwidget.github.io/anaconda/
 {
 	"auto_find_in_selection": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"font_face": "Consolas",
-	"font_size": 12,
+	"color_scheme": "Packages/Theme-me/Green-ColorScheme/green eyeshield.tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
+	"font_face": "Consolas",
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"tab_size": 4,
 	"save_on_focus_lost": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "true"
 }
+
 4、主题
 
 https://github.com/JasmineChoi/Green-ColorScheme
